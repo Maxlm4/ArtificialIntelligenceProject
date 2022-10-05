@@ -1,0 +1,886 @@
+﻿Female;Arien;Ainur
+Female;Estë;Ainur
+Female;Fuithluin;Ainur
+Female;Ilmarë;Ainur
+Female;Melian;Ainur
+Female;Nessa;Ainur
+Female;Nielíqui;Ainur
+Female;Nienna;Ainur
+Female;Uinen;Ainur
+Female;Vairë;Ainur
+Female;Varda;Ainur
+Female;Yavanna;Ainur
+Female;Lúthien;Ainur
+Female;Thuringwethil;Ainur
+Male;Aulë;Ainur
+Male;Eönwë;Ainur
+Male;Irmo;Ainur
+Male;Mandos;Ainur
+Male;Manwë;Ainur
+Male;Mar;Ainur
+Male;Melkor;Ainur
+Male;Oromë;Ainur
+Male;Ossë;Ainur
+Male;Pallando;Ainur
+Male;Salmar;Ainur
+Male;Tilion;Ainur
+Male;Tulkas;Ainur
+Male;Ulmo;Ainur
+Male;Alatar;Ainur
+Male;Lungorthin;Ainur
+Male;Gandalf;Ainur
+Male;Radagast;Ainur
+Male;Saruman;Ainur
+Male;Sauron;Ainur
+Male;Tom Bombadil;Ainur
+Male;Durin's Bane;Ainur
+Male;Gothmog;Ainur
+Female;Dís;Dwarves
+Male;Frár;Dwarves
+Male;Borin;Dwarves
+Male;Azaghâl;Dwarves
+Male;Balin;Dwarves
+Male;Bifur;Dwarves
+Male;Bodruith;Dwarves
+Male;Bofur;Dwarves
+Male;Bombur;Dwarves
+Male;Dáin *;Dwarves
+Male;Dáin * Ironfoot;Dwarves
+Male;Dori;Dwarves
+Male;Durin;Dwarves
+Male;Durin *;Dwarves
+Male;Dwalin;Dwarves
+Male;Farin;Dwarves
+Male;Fíli;Dwarves
+Male;Flói;Dwarves
+Male;Frerin;Dwarves
+Male;Frór;Dwarves
+Male;Fundin;Dwarves
+Male;Gamil Zirak;Dwarves
+Male;Gimli;Dwarves
+Male;Glóin;Dwarves
+Male;Glóin of Durin's Folk;Dwarves
+Male;Gróin;Dwarves
+Male;Grór;Dwarves
+Male;Ibûn;Dwarves
+Male;In;Dwarves
+Male;Khîm;Dwarves
+Male;Lóni;Dwarves
+Male;Mîm;Dwarves
+Male;Náin;Dwarves
+Male;Náin *;Dwarves
+Male;Náin *;Dwarves
+Male;Náli;Dwarves
+Male;Nár;Dwarves
+Male;Narvi;Dwarves
+Male;Naugladur;Dwarves
+Male;Nauglath;Dwarves
+Male;Nori;Dwarves
+Male;Ori;Dwarves
+Male;Telchar;Dwarves
+Male;Thorin *;Dwarves
+Male;Thorin * Oakenshield;Dwarves
+Male;Thorin * Stonehelm;Dwarves
+Male;Thráin *;Dwarves
+Male;Thráin *;Dwarves
+Male;Thrór;Dwarves
+Male;Óin;Dwarves
+Male;Kíli;Dwarves
+Female;Elwing;Elves
+Female;Gilmith;Elves
+Female;Arwen;Elves
+Male;Dior;Elves
+Male;Eärendil;Elves
+Male;Elrond;Elves
+Male;Elros;Elves
+Male;Galador;Elves
+Male;Elrohir;Elves
+Male;Elurín;Elves
+Female;Amarië;Elves
+Female;Anairë;Elves
+Female;Aredhel;Elves
+Female;Celebrían;Elves
+Female;Eärwen;Elves
+Female;Eldalótë;Elves
+Female;Elemmírë;Elves
+Female;Elenwë;Elves
+Female;Enelyë;Elves
+Female;Findis;Elves
+Female;Finduilas;Elves
+Female;Galadriel;Elves
+Female;Idril;Elves
+Female;Iminyë;Elves
+Female;Indis;Elves
+Female;Meril-i-Turinqi;Elves
+Female;Míriel;Elves
+Female;Mithrellas;Elves
+Female;Nellas;Elves
+Female;Nerdanel;Elves
+Female;Nimloth;Elves
+Female;Nimrodel;Elves
+Female;Rimë;Elves
+Female;Tatië;Elves
+Female;Vairë;Elves
+Female;Vëannë;Elves
+Female;Irimë;Elves
+Male;Amras;Elves
+Male;Edrahil;Elves
+Male;Ingwion;Elves
+Male;Aegnor;Elves
+Male;Amdír;Elves
+Male;Amrod;Elves
+Male;Amroth;Elves
+Male;Angrod;Elves
+Male;Annael;Elves
+Male;Aranwë;Elves
+Male;Argon;Elves
+Male;Arminas;Elves
+Male;Beleg Cúthalion;Elves
+Male;Caranthir;Elves
+Male;Celeborn;Elves
+Male;Celebrimbor;Elves
+Male;Celegorm;Elves
+Male;Círdan;Elves
+Male;Curufin;Elves
+Male;Daeron;Elves
+Male;Denethor;Elves
+Male;Ecthelion of the Fountain;Elves
+Male;Egalmoth;Elves
+Male;Elemmakil;Elves
+Male;Elladan;Elves
+Male;Elmo;Elves
+Male;Eluréd;Elves
+Male;Enel;Elves
+Male;Enerdhil;Elves
+Male;Eöl;Elves
+Male;Erellont;Elves
+Male;Erestor;Elves
+Male;Fëanor;Elves
+Male;Finarfin;Elves
+Male;Fingolfin;Elves
+Male;Fingon;Elves
+Male;Finrod;Elves
+Male;Finwë;Elves
+Male;Galathil;Elves
+Male;Galdor of the Havens;Elves
+Male;Galdor of the Tree;Elves
+Male;Galion;Elves
+Male;Gelmir;Elves
+Male;Gelmir of Angrod's kin;Elves
+Male;Gilfanon;Elves
+Male;Gil-galad;Elves
+Male;Gimli;Elves
+Male;Glorfindel;Elves
+Male;Guilin;Elves
+Male;Gwindor;Elves
+Male;Haldir;Elves
+Male;Hendor;Elves
+Male;Imin;Elves
+Male;Ingwë;Elves
+Male;Legolas;Elves
+Male;Lenwë;Elves
+Male;Lindir;Elves
+Male;Lindo;Elves
+Male;Mablung;Elves
+Male;Maedhros;Elves
+Male;Maeglin;Elves
+Male;Maglor;Elves
+Male;Mahtan;Elves
+Male;Morwë;Elves
+Male;Nurwë;Elves
+Male;Olwë;Elves
+Male;Orodreth;Elves
+Male;Oropher;Elves
+Male;Orophin;Elves
+Male;Pengolodh;Elves
+Male;Penlod;Elves
+Male;Rog;Elves
+Male;Rúmil;Elves
+Male;Rúmil of Lórien;Elves
+Male;Saeros;Elves
+Male;Salgant;Elves
+Male;Tata;Elves
+Male;Thingol;Elves
+Male;Thranduil;Elves
+Male;Tulkastor;Elves
+Male;Turgon;Elves
+Male;Voronwë;Elves
+Male;Galadhon;Elves
+Male;Gildor Inglorion;Elves
+Female;Adaldrida Bolger;Hobbits
+Female;Adamanta Chubb;Hobbits
+Female;Alfrida;Hobbits
+Female;Amaranth Brandybuck;Hobbits
+Female;Angelica Baggins;Hobbits
+Female;Asphodel Brandybuck;Hobbits
+Female;Belba Baggins;Hobbits
+Female;Bell Goodchild;Hobbits
+Female;Belladonna Took;Hobbits
+Female;Berylla Boffin;Hobbits
+Female;Camellia Sackville;Hobbits
+Female;Celandine Brandybuck;Hobbits
+Female;Chica Chubb;Hobbits
+Female;Cora Goodbody;Hobbits
+Female;Daisy Baggins;Hobbits
+Female;Daisy Gamgee;Hobbits
+Female;Daisy Gamgee *;Hobbits
+Female;Diamond Took;Hobbits
+Female;Dina Diggle;Hobbits
+Female;Donnamira Took;Hobbits
+Female;Dora Baggins;Hobbits
+Female;Druda Burrows Boffin;Hobbits
+Female;Eglantine Banks;Hobbits
+Female;Elanor Gardner;Hobbits
+Female;Esmeralda Brandybuck;Hobbits
+Female;Estella Bolger;Hobbits
+Female;Fíriel Fairbairn;Hobbits
+Female;Gerda Boffin;Hobbits
+Female;Goldilocks Gardner;Hobbits
+Female;Hanna Goldworthy;Hobbits
+Female;Hilda Bracegirdle;Hobbits
+Female;Hilda Brandybuck;Hobbits
+Female;Ivy Goodenough;Hobbits
+Female;Jessamine Boffin;Hobbits
+Female;Lalia Clayhanger;Hobbits
+Female;Laura Grubb;Hobbits
+Female;Lavender Grubb;Hobbits
+Female;Liliah Took;Hobbits
+Female;Lily Baggins;Hobbits
+Female;Lily Cotton;Hobbits
+Female;Linda Baggins;Hobbits
+Female;Lobelia Sackville-Baggins;Hobbits
+Female;Malva Headstrong Brandybuck;Hobbits
+Female;Marigold Gamgee;Hobbits
+Female;May Gamgee;Hobbits
+Female;Melilot Brandybuck;Hobbits
+Female;Mentha Brandybuck;Hobbits
+Female;Mimosa Bunce;Hobbits
+Female;Mirabella Took;Hobbits
+Female;Mrs. Proudfoot;Hobbits
+Female;Myrtle Burrows;Hobbits
+Female;Nina Lightfoot;Hobbits
+Female;Pansy Baggins;Hobbits
+Female;Pearl Took;Hobbits
+Female;Peony Baggins;Hobbits
+Female;Pervinca Took;Hobbits
+Female;Pimpernel Took;Hobbits
+Female;Poppy Chubb-Baggins;Hobbits
+Female;Primrose Bracegirdle;Hobbits
+Female;Primrose Gardner;Hobbits
+Female;Primula Brandybuck;Hobbits
+Female;Prisca Baggins;Hobbits
+Female;Rosa Baggins;Hobbits
+Female;Rose Gamgee;Hobbits
+Female;Rose Greenhand;Hobbits
+Female;Rosie Cotton;Hobbits
+Female;Ruby Bolger;Hobbits
+Female;Ruby Gamgee;Hobbits
+Female;Salvia Brandybuck;Hobbits
+Female;Sapphira Brockhouse;Hobbits
+Female;Tanta Baggins;Hobbits
+Female;Tanta Hornblower;Hobbits
+Female;Widow Rumble;Hobbits
+Female;Amethyst Hornblower;Hobbits
+Female;Daisy Gardner;Hobbits
+Male;Adalbert Bolger;Hobbits
+Male;Adalgar Bolger;Hobbits
+Male;Adalgrim Took;Hobbits
+Male;Adelard Took;Hobbits
+Male;Andwise Roper;Hobbits
+Male;Anson Roper;Hobbits
+Male;Balbo Baggins;Hobbits
+Male;Bandobras Took;Hobbits
+Male;Basso Boffin;Hobbits
+Male;Berilac Brandybuck;Hobbits
+Male;Bilbo Baggins;Hobbits
+Male;Bilbo Gamgee;Hobbits
+Male;Bilbo Gardner;Hobbits
+Male;Bingo Baggins;Hobbits
+Male;Blanco;Hobbits
+Male;Blanco Bracegirdle;Hobbits
+Male;Bob;Hobbits
+Male;Bodo Proudfoot;Hobbits
+Male;Bosco Boffin;Hobbits
+Male;Bowman Cotton;Hobbits
+Male;Briffo Boffin;Hobbits
+Male;Bruno Bracegirdle;Hobbits
+Male;Bucca of the Marish;Hobbits
+Male;Buffo Boffin;Hobbits
+Male;Bungo Baggins;Hobbits
+Male;Carl Cotton;Hobbits
+Male;Cottar;Hobbits
+Male;Daddy Twofoot;Hobbits
+Male;Déagol;Hobbits
+Male;Dinodas Brandybuck;Hobbits
+Male;Doderic Brandybuck;Hobbits
+Male;Dodinas Brandybuck;Hobbits
+Male;Drogo Baggins;Hobbits
+Male;Dudo Baggins;Hobbits
+Male;Elfstan Fairbairn;Hobbits
+Male;Erling Greenhand;Hobbits
+Male;Everard Took;Hobbits
+Male;Falco Chubb-Baggins;Hobbits
+Male;Faramir Took *;Hobbits
+Male;Farmer Maggot;Hobbits
+Male;Fastolph Bolger;Hobbits
+Male;Fastred of Greenholm;Hobbits
+Male;Ferdibrand Took;Hobbits
+Male;Ferdinand Took;Hobbits
+Male;Ferumbras * Took;Hobbits
+Male;Ferumbras Took *;Hobbits
+Male;Filibert Bolger;Hobbits
+Male;Flambard Took;Hobbits
+Male;Folco Boffin;Hobbits
+Male;Fortinbras Took *;Hobbits
+Male;Fortinbras Took *;Hobbits
+male;Fosco Baggins;Hobbits
+Male;Fredegar Bolger;Hobbits
+Male;Frodo Baggins;Hobbits
+Male;Frodo Gardner;Hobbits
+Male;Gerontius Took;Hobbits
+Male;Gorbadoc Brandybuck;Hobbits
+Male;Gorbulas Brandybuck;Hobbits
+Male;Gorhendad Oldbuck;Hobbits
+Male;Gormadoc Deepdelver Brandybuck;Hobbits
+Male;Griffo Boffin;Hobbits
+Male;Gruffo Boffin;Hobbits
+Male;Gundahar Bolger;Hobbits
+Male;Halfast Gamgee;Hobbits
+Male;Halfred Gamgee;Hobbits
+Male;Halfred Greenhand;Hobbits
+Male;Hamfast Gamgee;Hobbits
+Male;Hamfast Gardner;Hobbits
+Male;Hamfast of Gamwich;Hobbits
+Male;Hamson Gamgee;Hobbits
+Male;Hending Greenhand;Hobbits
+Male;Hildibrand Took;Hobbits
+Male;Hildifons Took;Hobbits
+Male;Hildigrim Took;Hobbits
+Male;Hob Gammidge;Hobbits
+Male;Hob Hayward;Hobbits
+Male;Holman Greenhand;Hobbits
+Male;Hugo Boffin;Hobbits
+Male;Ilberic Brandybuck;Hobbits
+Male;Isembard Took;Hobbits
+Male;Isembold Took;Hobbits
+Male;Isengrim Took *;Hobbits
+Male;Isengrim Took *;Hobbits
+Male;Isumbras Took *;Hobbits
+Male;Isumbras Took *;Hobbits
+Male;Jago Boffin;Hobbits
+Male;Largo Baggins;Hobbits
+Male;Longo Baggins;Hobbits
+Male;Lotho Sackville-Baggins;Hobbits
+Male;Madoc Brandybuck;Hobbits
+Male;Marcho;Hobbits
+Male;Marmadas Brandybuck;Hobbits
+Male;Marroc Brandybuck;Hobbits
+Male;Meriadoc Brandybuck;Hobbits
+Male;Merimac Brandybuck;Hobbits
+Male;Merimas Brandybuck;Hobbits
+Male;Merry Gamgee;Hobbits
+Male;Milo Burrows;Hobbits
+Male;Minto Burrows;Hobbits
+Male;Moro Burrows;Hobbits
+Male;Mosco Burrows;Hobbits
+Male;Mungo Baggins;Hobbits
+Male;Nob;Hobbits
+Male;Odo Proudfoot;Hobbits
+Male;Odovacar Bolger;Hobbits
+Male;Old Noakes;Hobbits
+Male;Olo Proudfoot;Hobbits
+Male;Orgulas Brandybuck;Hobbits
+Male;Otho Sackville-Baggins;Hobbits
+Male;Otto Boffin;Hobbits
+Male;Paladin Took *;Hobbits
+Male;Peregrin Took;Hobbits
+Male;Pippin Gamgee;Hobbits
+Male;Polo Baggins;Hobbits
+Male;Ponto Baggins;Hobbits
+Male;Ponto Baggins *;Hobbits
+Male;Ponto Baggins *;Hobbits
+Male;Porto Baggins;Hobbits
+Male;Reginard Took;Hobbits
+Male;Robin Gardner;Hobbits
+Male;Robin Smallburrow;Hobbits
+Male;Rollo Boffin;Hobbits
+Male;Rorimac Brandybuck;Hobbits
+Male;Rowan Greenhand;Hobbits
+Male;Rudibert Bolger;Hobbits
+Male;Rudigar Bolger;Hobbits
+Male;Rudolph Bolger;Hobbits
+Male;Rufus Burrows;Hobbits
+Male;Sadoc Brandybuck;Hobbits
+Male;Samwise Gamgee;Hobbits
+Male;Sancho Proudfoot;Hobbits
+Male;Sandyman;Hobbits
+Male;Saradas Brandybuck;Hobbits
+Male;Saradoc Brandybuck;Hobbits
+Male;Seredic Brandybuck;Hobbits
+Male;Sigismond Took;Hobbits
+Male;Smeagol;Hobbits
+Male;Ted Sandyman;Hobbits
+Male;Theobald Bolger;Hobbits
+Male;Tobias Hornblower;Hobbits
+Male;Tobold Hornblower;Hobbits
+Male;Togo Goodbody;Hobbits
+Male;Tolman Cotton;Hobbits
+Male;Tolman Cotton Jr.;Hobbits
+Male;Tolman Gardner;Hobbits
+Male;Tosto Boffin;Hobbits
+Male;Uffo Boffin;Hobbits
+Male;Wilcome Cotton;Hobbits
+Male;Wilibald Bolger;Hobbits
+Male;Wilimar Bolger;Hobbits
+Male;Will Whitfoot;Hobbits
+Male;Willie Banks;Hobbits
+Male;Wiseman Gamwich;Hobbits
+Male;Vigo Boffin;Hobbits
+Male;Hugo Bracegirdle;Hobbits
+Male;Gundabald Bolger;Hobbits
+Male;Gundahad Bolger;Hobbits
+Male;Gundolpho Bolger;Hobbits
+Male;Cotman;Hobbits
+Male;Inigo Baggins;Hobbits
+Female;Adanel;Men
+Female;Aerin;Men
+Female;Ailinel;Men
+Female;Almarian;Men
+Female;Almiel;Men
+Female;Andreth;Men
+Female;Beldis;Men
+Female;Berúthiel;Men
+Female;Eilinel;Men
+Female;Elfhild;Men
+Female;Emeldir;Men
+Female;Erendis;Men
+Female;Finduilas of Dol Amroth;Men
+Female;Fíriel;Men
+Female;Gildis;Men
+Female;Gilraen;Men
+Female;Glóredhel;Men
+Female;Haleth;Men
+Female;Hareth;Men
+Female;Inzilbêth;Men
+Female;Ioreth;Men
+Female;Isilmë;Men
+Female;Ivorwen;Men
+Female;Ivriniel;Men
+Female;Lalaith;Men
+Female;Lindissë;Men
+Female;Lindórië;Men
+Female;Lothíriel;Men
+Female;Mairen;Men
+Female;Meleth;Men
+Female;Morwen;Men
+Female;Morwen Steelsheen;Men
+Female;Nessanië;Men
+Female;Niënor;Men
+Female;Núneth;Men
+Female;Owyn;Men
+Female;Rían;Men
+Female;Rían of Gondor;Men
+Female;Rildë;Men
+Female;Rosamunda Took;Men
+Female;Silmariën;Men
+Female;Tar-Ancalimë;Men
+Female;Tar-Míriel;Men
+Female;Tar-Telperiën;Men
+Female;Tar-Vanimeldë;Men
+Female;Théodwyn;Men
+Female;Tindómiel;Men
+Female;Vardilmë;Men
+Female;Vidumavi;Men
+Female;Yávien;Men
+Female;Zamîn;Men
+Female;Írildë;Men
+Female;Hiril;Men
+Female;Bereth;Men
+Female;Beril;Men
+Female;Éowyn;Men
+Male;Ghân-buri-Ghân;Men
+Male;Adrahil *;Men
+Male;Adrahil *;Men
+Male;Aerandir;Men
+Male;Agathor;Men
+Male;Agathor;Men
+Male;Aghan;Men
+Male;Aglahad;Men
+Male;Aldamir;Men
+Male;Aldor;Men
+Male;Algund;Men
+Male;Alphros;Men
+Male;Amandil;Men
+Male;Amlach;Men
+Male;Amlaith;Men
+Male;Amrothos;Men
+Male;Anardil;Men
+Male;Anárion;Men
+Male;Anborn;Men
+Male;Andróg;Men
+Male;Andvír;Men
+Male;Angamaitë;Men
+Male;Angbor;Men
+Male;Angelimar;Men
+Male;Angelimir;Men
+Male;Angrim;Men
+Male;Arador;Men
+Male;Ar-Adûnakhôr;Men
+Male;Araglas;Men
+Male;Aragorn *;Men
+Male;Aragorn * Elessar;Men
+Male;Aragost;Men
+Male;Arahad *;Men
+Male;Arahad *;Men
+Male;Arahael;Men
+Male;Aranarth;Men
+Male;Arantar;Men
+Male;Aranuir;Men
+Male;Araphant;Men
+Male;Araphor;Men
+Male;Arassuil;Men
+Male;Aratan;Men
+Male;Arathorn *;Men
+Male;Arathorn *;Men
+Male;Araval;Men
+Male;Aravir;Men
+Male;Aravorn;Men
+Male;Arciryas;Men
+Male;Ardamir;Men
+Male;Argeleb *;Men
+Male;Argeleb *;Men
+Male;Ar-Gimilzôr;Men
+Male;Argonui;Men
+Male;Ar-Pharazôn;Men
+Male;Ar-Sakalthôr;Men
+Male;Artamir;Men
+Male;Arthad;Men
+Male;Arvedui;Men
+Male;Arvegil;Men
+Male;Arveleg *;Men
+Male;Arveleg *;Men
+Male;Ar-Zimrathôn;Men
+Male;Asgon;Men
+Male;Atanalcar;Men
+Male;Atanatar *;Men
+Male;Atanatar *;Men
+Male;Aulendil;Men
+Male;Axantur;Men
+Male;Bain;Men
+Male;Bal;Men
+Male;Baldor;Men
+Male;Baragund;Men
+Male;Barahir;Men
+Male;Baran;Men
+Male;Baranor;Men
+Male;Bard;Men
+Male;Bard *;Men
+Male;Barliman Butterbur;Men
+Male;Beldir;Men
+Male;Belecthor *;Men
+Male;Belecthor *;Men
+Male;Beleg of Arnor;Men
+Male;Belegorn;Men
+Male;Belegund;Men
+Male;Belemir;Men
+Male;Belen;Men
+Male;Bëor;Men
+Male;Bereg;Men
+Male;Beregond;Men
+Male;Berelach;Men
+Male;Beren;Men
+Male;Bergil;Men
+Male;Bill Ferny;Men
+Male;Black Serpent;Men
+Male;Bladorthin;Men
+Male;Bór;Men
+Male;Borlach;Men
+Male;Borlad;Men
+Male;Borlas;Men
+Male;Boromir;Men
+Male;Boron;Men
+Male;Borondir;Men
+Male;Borthand;Men
+Male;Brand;Men
+Male;Brandir;Men
+Male;Brego;Men
+Male;Bregolas;Men
+Male;Bregor;Men
+Male;Brodda;Men
+Male;Broncho Stonecrow;Men
+Male;Brytta Léofa;Men
+Male;Calimehtar;Men
+Male;Calimmacil;Men
+Male;Caliondo;Men
+Male;Calmacil;Men
+Male;Castamir;Men
+Male;Celebrindor;Men
+Male;Celepharn;Men
+Male;Cemendur;Men
+Male;Cemendur;Men
+Male;Ceorl;Men
+Male;Cirion;Men
+Male;Ciryandil;Men
+Male;Ciryatur;Men
+Male;Ciryon;Men
+Male;Dairuin;Men
+Male;Damrod;Men
+Male;Denethor *;Men
+Male;Denethor *;Men
+Male;Déorwine;Men
+Male;Derufin;Men
+Male;Dervorin;Men
+Male;Dior;Men
+Male;Dírhael;Men
+Male;Dírhavel;Men
+Male;Duilin;Men
+Male;Duinhir;Men
+Male;Dúnhere;Men
+Male;Eärendil of Gondor;Men
+Male;Eärendur;Men
+Male;Eärendur of Arnor;Men
+Male;Eärendur of Númenor;Men
+Male;Eärnil *;Men
+Male;Eärnil *;Men
+Male;Eärnur;Men
+Male;Ebor;Men
+Male;Ecthelion *;Men
+Male;Ecthelion *;Men
+Male;Egalmoth;Men
+Male;Elatan;Men
+Male;Elboron;Men
+Male;Eldacar of Arnor;Men
+Male;Eldacar of Gondor;Men
+Male;Eldarion;Men
+Male;Elendil;Men
+Male;Elendur;Men
+Male;Elendur of Arnor;Men
+Male;Elfhelm;Men
+Male;Elfwine;Men
+Male;Elphir;Men
+Male;Eorl the Young;Men
+Male;Eradan;Men
+Male;Erchirion;Men
+Male;Erkenbrand;Men
+Male;Estelmo;Men
+Male;Falathar;Men
+Male;Faramir;Men
+Male;Fastred;Men
+Male;Fastred of Greenholm;Men
+Male;Fengel;Men
+Male;Findegil;Men
+Male;Folca;Men
+Male;Folcred;Men
+Male;Folcwine;Men
+Male;Forlong;Men
+Male;Forthwini;Men
+Male;Forweg;Men
+Male;Fram;Men
+Male;Fréa;Men
+Male;Fréaláf Hildeson;Men
+Male;Fréawine;Men
+Male;Freca;Men
+Male;Frumgar;Men
+Male;Fuinur;Men
+Male;Galdor;Men
+Male;Gálmód;Men
+Male;Gamling;Men
+Male;Gárulf;Men
+Male;Gethron;Men
+Male;Gildor Edain;Men
+Male;Gimilkhâd;Men
+Male;Gimilzagar;Men
+Male;Girion;Men
+Male;Gléowine;Men
+Male;Glirhuin;Men
+Male;Golasgil;Men
+Male;Goldwine;Men
+Male;Gram;Men
+Male;Gríma Wormtongue;Men
+Male;Grimbold;Men
+Male;Grithnir;Men
+Male;Gundor;Men
+Male;Guthláf;Men
+Male;Hador;Men
+Male;Halbarad;Men
+Male;Haldir;Men
+Male;Haleth;Men
+Male;Hallacar;Men
+Male;Hallas;Men
+Male;Hallatan;Men
+Male;Halmir;Men
+Male;Háma;Men
+Male;Handir;Men
+Male;Hardang;Men
+Male;Harding;Men
+Male;Harry Goatleaf;Men
+Male;Hathaldir;Men
+Male;Hathol;Men
+Male;Hatholdir;Men
+Male;Helm Hammerhand;Men
+Male;Henderch;Men
+Male;Herefara;Men
+Male;Herion;Men
+Male;Herubrand;Men
+Male;Herucalmo;Men
+Male;Herumor;Men
+Male;Hirgon;Men
+Male;Hirluin;Men
+Male;Horn;Men
+Male;Hundad;Men
+Male;Hundar;Men
+Male;Hunthor;Men
+Male;Huor;Men
+Male;Hurin;Men
+Male;Húrin;Men
+Male;Húrin *;Men
+Male;Húrin *;Men
+Male;Húrin of Emyn Arnen;Men
+Male;Hyarmendacil *;Men
+Male;Hyarmendacil *;Men
+Male;Imlach;Men
+Male;Imrahil;Men
+Male;Imrazôr;Men
+Male;in of Durin's Folk;Men
+Male;Indor;Men
+Male;Ingold;Men
+Male;Iorlas;Men
+Male;Isildur;Men
+Male;Isilmo;Men
+Male;Larnach;Men
+Male;Léod;Men
+Male;Lorgan;Men
+Male;Mablung the Ranger;Men
+Male;Magor;Men
+Male;Malach;Men
+Male;Malantur;Men
+Male;Malbeth the Seer;Men
+Male;Mallor;Men
+Male;Malvegil;Men
+Male;Manthor;Men
+Male;Manwendil;Men
+Male;Marach;Men
+Male;Mardil Voronwë;Men
+Male;Marhari;Men
+Male;Marhwini;Men
+Male;Master of Laketown;Men
+Male;Mat Heathertoes;Men
+Male;Meneldil;Men
+Male;Minardil;Men
+Male;Minastan;Men
+Male;Minohtar;Men
+Male;Mouth of Sauron;Men
+Male;Narmacil *;Men
+Male;Narmacil *;Men
+Male;Nolondil;Men
+Male;Númendil;Men
+Male;ofor;Men
+Male;Ohtar;Men
+Male;omer;Men
+Male;omund;Men
+Male;Ondoher;Men
+Male;Orchaldor;Men
+Male;Orleg;Men
+Male;Orodreth;Men
+Male;Oromendil;Men
+Male;Ostoher;Men
+Male;othain;Men
+Male;Pelendur;Men
+Male;Radhruin;Men
+Male;Ragnir;Men
+Male;Ragnor;Men
+Male;Rómendacil *;Men
+Male;Rómendacil *;Men
+Male;Sador;Men
+Male;Saelon;Men
+Male;Sagroth;Men
+Male;Sangahyando;Men
+Male;Siriondil;Men
+Male;Soronto;Men
+Male;Squint-eyed Southerner;Men
+Male;Tar-Alcarin;Men
+Male;Tar-Aldarion;Men
+Male;Tar-Amandil;Men
+Male;Tar-Anárion;Men
+Male;Tar-Ancalimon;Men
+Male;Tarannon Falastur;Men
+Male;Tar-Ardamin;Men
+Male;Tar-Atanamir;Men
+Male;Tar-Calmacil;Men
+Male;Tarcil;Men
+Male;Tarciryan;Men
+Male;Tar-Ciryatan;Men
+Male;Tar-Elendil;Men
+Male;Targon;Men
+Male;Tar-Meneldur;Men
+Male;Tar-Minastir;Men
+Male;Tarondor;Men
+Male;Tarondor of Arnor;Men
+Male;Tar-Palantir;Men
+Male;Tar-Súrion;Men
+Male;Tar-Telemmaitë;Men
+Male;Telemnar;Men
+Male;Telumehtar;Men
+Male;Thengel;Men
+Male;Théoden;Men
+Male;Théodred;Men
+Male;Thorondir;Men
+Male;Tuor;Men
+Male;Turambar;Men
+Male;Turgon;Men
+Male;Túrin;Men
+Male;Túrin *;Men
+Male;Túrin *;Men
+Male;Ulbar;Men
+Male;Uldor;Men
+Male;Ulfang;Men
+Male;Ulfast;Men
+Male;Ulrad;Men
+Male;Ulwarth;Men
+Male;Uolë Kúvion;Men
+Male;Urthel;Men
+Male;Valacar;Men
+Male;Valandil;Men
+Male;Valandil of Andúnië;Men
+Male;Valandur;Men
+Male;Vardamir Nólimon;Men
+Male;Vëantur;Men
+Male;Vidugavia;Men
+Male;Vorondil;Men
+Male;Walda;Men
+Male;Wídfara;Men
+Male;Wulf *;Men
+Male;Zimrahin;Men
+Male;Îbal;Men
+Male;Barach;Men
+Male;Beregar;Men
+Male;Éomer;Men
+Male;Éomund;Men
+Male;Éothain;Men
+Male;Déor;Men
+Male;Gorlim;Men
+Male;Khamûl;Men
+Male;Witch-king of Angmar;Men
+Male;Dorlas;Men
+Male;Haldad;Men
+Male;Haldar;Men
+Male;Shagrat;Orcs
+Male;Bolg;Orcs
+Male;Gothmog of Morgul;Orcs
+Male;Grishnákh;Orcs
+Male;Muzgash;Orcs
+Male;Ufthak;Orcs
+Male;Golfimbul;Orcs
+Male;Azog;Orcs
+Male;Balcmeg;Orcs
+Male;Boldog;Orcs
+Male;Gorgol;Orcs
+Male;Great Goblin;Orcs
+Male;Lagduf;Orcs
+Male;Orcobal;Orcs
+Male;Radbug;Orcs
+Male;Snaga;Orcs
+Male;Lugdush;Orcs
+Male;Mauhúr;Orcs
+Male;Uglúk;Orcs
+Male;Gorbag;Orcs
